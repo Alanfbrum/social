@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 :root{
-   --cor0: #808080;
-   --cor1: #404040;
-   --cor2: #C0C0C0;
-   --cor3: #CCCCCC;
-   --cor4: #A6A6A6;
+   --cor0: #1B2136;
+   --cor1: #6178C2;
+   --cor2: #3B4975;
+   --cor3: #415082;
+   --cor4: #2E395C;
 }
 
 body {
