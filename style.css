@@ -30,7 +30,7 @@ main {
     background-image: linear-gradient(to right, var(--cor2), var(--cor0));    
     border-radius: 10px;
     box-shadow: 5px 5px 15px rgba(44, 35, 29, 0.616);
-    color: var(--cor1);
+    color: white;
 }
 
 img#alan2{
@@ -38,19 +38,19 @@ img#alan2{
 }
 
 h1 {
-    color: var(--cor1);
+    color: white;
     text-align: center;
     font-size: 3em;
 }
 
 h2 {
     text-align: center;
-    color: var(--cor3);
+    color: white;
     font-size: 1.8em;
 }
 
 ul {
-    color: var(--cor3);
+    color: white;
     margin-bottom: 140px;
 }
 
@@ -67,7 +67,7 @@ footer {
 }
 
 footer p{
-    color: var(--cor1);
+    color: white;
 }
 
 footer a:hover {
@@ -76,9 +76,9 @@ footer a:hover {
 }
 
 footer a:visited {
-    color: var(--cor1);
+    color: white;
   }
 
   a {
-    color: var(--cor3);
+    color: white;
   }
