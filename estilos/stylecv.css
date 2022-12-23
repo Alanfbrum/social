@@ -23,7 +23,7 @@ header {
     background-image: linear-gradient(to right, var(--cor0), var(--cor1));
     margin: auto;
     height: auto; 
-    min-width: 280px;
+    min-width: 250px;
     max-width: 1245px;
     text-align: center;
     padding-top: 5px 5px;
@@ -34,7 +34,7 @@ header {
 main {
     margin: auto;
     height: auto;
-    min-width: 280px;
+    min-width: 250px;
     max-width: 1200px;
     padding: 20px;
     background-image: linear-gradient(to right, var(--cor0), var(--cor1));
@@ -75,7 +75,7 @@ footer {
     text-align: center;
     margin: auto;
     height: auto; 
-    min-width: 280px;
+    min-width: 250px;
     max-width: 1234px;
     padding: 5px;
     border-radius: 5px;
