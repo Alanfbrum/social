@@ -36,6 +36,7 @@ main {
     border-radius: 10px;
     box-shadow: 5px 5px 15px rgba(44, 35, 29, 0.616);
     color: white;
+    margin-bottom: 40px;
 }
 
 img#alan2{
@@ -48,29 +49,35 @@ h1 {
     font-size: 3em;
 }
 
-h2 {
-    text-align: center;
-    color: white;
-    font-size: 1.8em;
-}
-
-ul {
-    color: white;
-    margin-bottom: 140px;
-}
-
 p {
     text-align: justify;
 }
 
+a {
+    color: white;
+  }
+
 a:hover {
     text-decoration: underline;
     font-weight: bold;
-    transition: 0.8s;
+    transition: 0.4s;
 }
 
 #cv{
     font-size: 1.2em;
+}
+
+aside{
+    margin: auto;
+    height: auto;
+    min-width: 280px;
+    max-width: 800px;
+    padding: 20px;
+    background-image: linear-gradient(to right, var(--cor0), var(--cor1));
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(44, 35, 29, 0.616);
+    color: white;
+    margin-bottom: 40px;
 }
 
 footer {
@@ -79,7 +86,7 @@ footer {
     margin: auto;
     height: auto; 
     min-width: 280px;
-    max-width: 1225px;
+    max-width: 830px;
     padding: 5px;
     border-radius: 5px;
     background-image: linear-gradient(to right, var(--cor0), var(--cor1));
@@ -92,9 +99,5 @@ footer p{
 }
 
 footer a:visited {
-    color: white;
-  }
-
-a {
     color: white;
   }
